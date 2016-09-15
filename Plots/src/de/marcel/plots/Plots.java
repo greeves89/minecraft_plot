@@ -28,8 +28,6 @@ public class Plots extends JavaPlugin {
     @Override
     public void onEnable() {
         ConsoleCommandSender console = Bukkit.getConsoleSender();
-
-        //Dummes Kommentar
         
         console.sendMessage(prefix + "§aPlugin enabled!");
 
