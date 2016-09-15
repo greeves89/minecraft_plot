@@ -29,6 +29,8 @@ public class Plots extends JavaPlugin {
     public void onEnable() {
         ConsoleCommandSender console = Bukkit.getConsoleSender();
 
+        //Dummes Kommentar
+        
         console.sendMessage(prefix + "§aPlugin enabled!");
 
         plotManager = new PlotManager(this);
