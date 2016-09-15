@@ -1,0 +1,10 @@
+name: Plots
+version: 1.0
+author: marcelm19t
+main: de.marcel.plots.Plots
+
+commands:
+  plotmanager:
+    description: PlotManager Command
+  plot:
+    description: Plot Command
